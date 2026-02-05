@@ -5,3 +5,5 @@ this is code for routes
 this is code for error routing (like the 404 handeling)
 
 this is code
+
+also code for the navbar, double now
